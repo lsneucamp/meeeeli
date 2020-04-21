@@ -2,90 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0d351bd-3d36-46a1-bdb5-cb8ba8d7d2d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.storybook/preview-head.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test Front End/Assets/Logo_ML.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test Front End/Assets/Logo_ML@2x.png.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test Front End/Assets/ic_Search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test Front End/Assets/ic_Search@2x.png.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test Front End/Assets/ic_shipping.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test Front End/Assets/ic_shipping@2x.png.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test Front End/Diseños/01_Buscador.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test Front End/Diseños/01_Buscador@2x.png.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test Front End/Diseños/02_Detalle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test Front End/Diseños/02_Detalle@2x.png.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test Front End/Diseños/02_Resultados.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test Front End/Diseños/02_Resultados@2x.png.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test Front End/Front-End Test Práctico.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test Front End/Specs/Specs_Buscador.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test Front End/Specs/Specs_Detalle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test Front End/Specs/Specs_Resultados.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/items/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/search/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/css/reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/Container/Container.spec.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/Container/Container.stories.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/Container/Container.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/Container/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/Line/Line.spec.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/Line/Line.stories.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/Line/Line.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/Line/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/Logo/Logo.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/Logo/Logo.stories.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/Logo/LogoML.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/Logo/index.spec.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/Logo/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/Navbar/Navbar.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/Navbar/Navbar.stories.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/Navbar/index.spec.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/Navbar/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/Price/Price.spec.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/Price/Price.stories.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/Price/Price.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/Price/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/ProductDetails/ProductDetails.spec.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/ProductDetails/ProductDetails.stories.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/ProductDetails/ProductDetails.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/ProductDetails/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/ProductDetailsDescription/ProductDetailsDescription.spec.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/ProductDetailsDescription/ProductDetailsDescription.stories.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/ProductDetailsDescription/ProductDetailsDescription.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/ProductDetailsDescription/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/ProductDetailsInfo/ProductDetailsInfo.spec.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/ProductDetailsInfo/ProductDetailsInfo.stories.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/ProductDetailsInfo/ProductDetailsInfo.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/ProductDetailsInfo/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/SearchImage/SearchImage.spec.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/SearchImage/SearchImage.stories.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/SearchImage/SearchImage.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/SearchImage/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/SearchInput/SearchInput.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/SearchInput/SearchInput.stories.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/SearchInput/index.spec.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/SearchInput/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/SearchInput/lupa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/SearchResult/SearchResult.spec.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/SearchResult/SearchResult.stories.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/SearchResult/SearchResult.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/SearchResult/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/SearchResultItem/SearchResultItem.spec.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/SearchResultItem/SearchResultItem.stories.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/SearchResultItem/SearchResultItem.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/SearchResultItem/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/SearchResultItemDescription/SearchResultItemDescription.spec.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/SearchResultItemDescription/SearchResultItemDescription.stories.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/SearchResultItemDescription/SearchResultItemDescription.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/SearchResultItemDescription/ic_shipping@2x.png.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/SearchResultItemDescription/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/SearchResultItemList/SearchResultItemList.spec.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/SearchResultItemList/SearchResultItemList.stories.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/SearchResultItemList/SearchResultItemList.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/SearchResultItemList/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/TextInput/Input.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/TextInput/Input.stories.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/TextInput/index.spec.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Basic/TextInput/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../API-NodeJS-Express" beforeDir="false" afterPath="$PROJECT_DIR$/../../API-NodeJS-Express" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../DataScience-Python3/.ipynb_checkpoints/ConditionalProbabilityExercise-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataScience-Python3/.ipynb_checkpoints/ConditionalProbabilityExercise-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../DataScience-Python3/ConditionalProbabilityExercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataScience-Python3/ConditionalProbabilityExercise.ipynb" afterDir="false" />
@@ -3220,7 +3136,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1aMKUA09ZRhp2nmhRrXLMH3f5Xl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
